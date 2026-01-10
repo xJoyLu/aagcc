@@ -24,7 +24,7 @@
     </p>
     <div class="mt-5 flex">
       <HomeLink
-        href="https://github.com/miantiao-me/sink?tab=readme-ov-file#%EF%B8%8F-deployment"
+        href="https://xuzh.com/"
         type="inverted"
         :title="$t('home.cta.button')"
       >
